@@ -457,7 +457,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">fa67ea32</span>
-                            <span class="code">My project/Assets/Settings.meta</span>
+                            <span class="code">My project/ProjectSettings/URPProjectSettings.asset</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -468,7 +468,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,5 +1,5 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">fileFormatVersion: 2<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">guid: 709f11a7f3c4041caa4ef136ea32d874<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">guid: 0220aab0833d04faeb927d84ca6cc40c<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">folderAsset: yes<br /></span><span class="token prefix unchanged">·</span><span class="token line">DefaultImporter:<br /></span><span class="token prefix unchanged">·</span><span class="token line">externalObjects: {}</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -12,4 +12,4 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">m_Script: {fileID: 11500000, guid: 247994e1f5a72c2419c26a37e9334c01, type: 3}<br /></span><span class="token prefix unchanged">·</span><span class="token line">m_Name: <br /></span><span class="token prefix unchanged">·</span><span class="token line">m_EditorClassIdentifier: <br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">m_LastMaterialVersion: 7<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">m_LastMaterialVersion: 9</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -490,7 +490,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Apr 2025, 14:21:35 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Apr 2025, 15:13:36 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
