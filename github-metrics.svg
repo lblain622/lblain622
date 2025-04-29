@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1205" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1192" class="">
     <defs>
         <style/>
     </defs>
@@ -457,10 +457,10 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">63cb1bf8</span>
-                            <span class="code">My project/Assets/TutorialInfo/Scripts/Editor.meta</span>
+                            <span class="code">My project/Assets/Settings/URP-Balanced-Renderer.asset.meta</span>
                             <span class="code">
                                 <span class="snippet additions">++0</span>
-                                <span class="snippet deletions">--9</span>
+                                <span class="snippet deletions">--8</span>
                             </span>
                         </div>
                     </section>
@@ -468,7 +468,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,9 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">fileFormatVersion: 2<br /></span><span class="token prefix deleted">-</span><span class="token line">guid: 3ad9b87dffba344c89909c6d1b1c17e1<br /></span><span class="token prefix deleted">-</span><span class="token line">folderAsset: yes<br /></span><span class="token prefix deleted">-</span><span class="token line">timeCreated: 1475593892<br /></span><span class="token prefix deleted">-</span><span class="token line">licenseType: Store<br /></span><span class="token prefix deleted">-</span><span class="token line">DefaultImporter:<br /></span><span class="token prefix deleted">-</span><span class="token line">userData: <br /></span><span class="token prefix deleted">-</span><span class="token line">assetBundleName: <br /></span><span class="token prefix deleted">-</span><span class="token line">assetBundleVariant: </span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,8 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">fileFormatVersion: 2<br /></span><span class="token prefix deleted">-</span><span class="token line">guid: e634585d5c4544dd297acaee93dc2beb<br /></span><span class="token prefix deleted">-</span><span class="token line">NativeFormatImporter:<br /></span><span class="token prefix deleted">-</span><span class="token line">externalObjects: {}<br /></span><span class="token prefix deleted">-</span><span class="token line">mainObjectFileID: 11400000<br /></span><span class="token prefix deleted">-</span><span class="token line">userData: <br /></span><span class="token prefix deleted">-</span><span class="token line">assetBundleName: <br /></span><span class="token prefix deleted">-</span><span class="token line">assetBundleVariant: </span></span></code>
                         </div>
                     </section>
                 </div>
@@ -490,7 +490,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Apr 2025, 12:20:58 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Apr 2025, 13:15:52 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
