@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1342" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="992" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -31,19 +31,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -309,6 +309,19 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">djc8543/SWEN-755-Fault-Detection</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -377,557 +390,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 112 commits in
-                                        <span class="repo">lblain622/jabref</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#025a6fc</div>
-                                        <div class="message">Ensure latest JDK veriant (#13843)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#74d5bbf</div>
-                                        <div class="message">Fix typo in PR template</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#87a8f42</div>
-                                        <div class="message">Fix: No exception if file is not within a git repository (#13839)
-
-* Rewrite public static GitStatusSnapshot checkStatus(Path anyPathInsideRepo) {
-
-* Reuse "handler"
-
-* Inject GitHandlerRegistry
-
-Co-authored-by: Carl Christian Snethlage &lt;50491877+calixtus@users.noreply.github.com&gt;
-
-* Get rid of exception
-
-* Use constructor-based dependency injection
-
-Co-authored-by: Carl Christian Snethlage &lt;50491877+calixtus@users.noreply.github.com&gt;
-
-* Fix bot comments
-
-* Fix checkstyle
-
----------
-
-Co-authored-by: Carl Christian Snethlage &lt;50491877+calixtus@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aa1d8f9</div>
-                                        <div class="message">Fix lsp4j modules (#13835)
-
-* fix git modules requires and uses
-
-* Fix module name of lsp4j and use maven download instead of jitpack
-
-Fixes https://github.com/JabRef/jabref/issues/13702
-
-* Fix linting issues
-
-* Remove empty line
-
----------
-
-Co-authored-by: Oliver Kopp &lt;kopp.dev@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ccad1c3</div>
-                                        <div class="message">New Crowdin updates (#13837)
-
-* New translations jabref_en.properties (French)
-
-* New translations jabref_en.properties (Spanish)
-
-* New translations jabref_en.properties (German)
-
-* New translations jabref_en.properties (Greek)
-
-* New translations jabref_en.properties (Italian)
-
-* New translations jabref_en.properties (Japanese)
-
-* New translations jabref_en.properties (Korean)
-
-* New translations jabref_en.properties (Dutch)
-
-* New translations jabref_en.properties (Polish)
-
-* New translations jabref_en.properties (Russian)
-
-* New translations jabref_en.properties (Turkish)
-
-* New translations jabref_en.properties (Chinese Simplified)
-
-* New translations jabref_en.properties (Portuguese, Brazilian)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e75937b</div>
-                                        <div class="message">Split relativizeSymlinks parameterized tests in separate tests (#13782)
-
-* refactor: split OpenExternalFileAction into OpenSingleExternalFileAction and OpenSelectedEntriesFilesAction
-- Introduced OpenSingleExternalFileAction to handle single entry with one linked file
-- Introduced OpenSelectedEntriesFilesAction to handle multiple selection cases
-
-Fixes #13431
-
-* Cleaned up constant name, dialog text, and removed extra comment
-
-* Add null checks to OpenSingleExternalFileAction constructor
-
-* Add @NonNull annotations and fix localization key warnings
-
-* fix submodules
-
-* Use database latest context, update button text, and add comments explaining code
-
-* Bump org.junit.platform:junit-platform-launcher in /versions (#13505)
-
-Bumps [org.junit.platform:junit-platform-launcher](https://github.com/junit-team/junit-framework) from 1.13.1 to 1.13.3.
-- [Release notes](https://github.com/junit-team/junit-framework/releases)
-- [Commits](https://github.com/junit-team/junit-framework/commits)
-
----
-updated-dependencies:
-- dependency-name: org.junit.platform:junit-platform-launcher
-  dependency-version: 1.13.3
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
-Co-authored-by: Oliver Kopp &lt;kopp.dev@gmail.com&gt;
-
-* Fix: clarify fallback logic, update dialog labels, and avoid null Optional fallback
-
-* Fix: Make FileUtil.relativize symlink-aware for robust relative path resolution
-
-- Use real/canonical paths to ensure files are correctly recognized as within a directory, even through symlinks
-- Add and document unit tests covering symlinked and normal directory scenarios
-fixes #12995
-
-* remove unnecessary comments and make test more clearer and maintainable
-
-* Refactor to avoid using exceptions for normal control flow in tryRealPath and remove unnecessary comments
-
-* Refactored symlink tests for independence, used Files.writeString for simplicity, and ensured all edge cases from issue #12995 are now covered.
-
-* Fix code style issues with OpenRewrite and update symlink tests
-
-* Fix submodules
-
-* Fix submodules
-
-* Fix typo
-
-* Refactor tests
-
-* Add comments to explain the logic to not use directory.relativize()
-
-* Removed unneccesary comment
-
-* Add ignored test for symlink escape case (#12995 comment)
-
-* Tests: split relativizeSymlinks() parameterized test into separate test cases for better readability
-
-* resolved checkstyle issues
-
-* Resolved failed test cases issue and removed unused imports
-
-* fix failing tests in jablib module
-
----------
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: Oliver Kopp &lt;kopp.dev@gmail.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0eb694b</div>
-                                        <div class="message">Update the search syntax highlight for web search (#13801)
-
-* Renamed DefaultLuceneQueryTransformer class to DefaultSearchQueryTransformer
-
-* Changed the highlighting logic for web search to use the new ANTLR based parser syntax
-
-* Ran rewrite
-
-* Removed invalid DOI check as the new parser doesn't support checking for validity of DOI
-
-* Reused the existing l10n for error message
-
-* Re-use existing code
-
-* Modern Java
-
-* Fix comment
-
-* Re-add test
-
-* Fix position
-
----------
-
-Co-authored-by: Oliver Kopp &lt;kopp.dev@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90d38ec</div>
-                                        <div class="message">Chore(deps): Bump ai.djl:bom from 0.33.0 to 0.34.0 in /versions (#13833)
-
-Bumps [ai.djl:bom](https://github.com/deepjavalibrary/djl) from 0.33.0 to 0.34.0.
-- [Release notes](https://github.com/deepjavalibrary/djl/releases)
-- [Commits](https://github.com/deepjavalibrary/djl/compare/v0.33.0...v0.34.0)
-
----
-updated-dependencies:
-- dependency-name: ai.djl:bom
-  dependency-version: 0.34.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a386451</div>
-                                        <div class="message">Fix typos in CHANGELOG.md (#13826)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8657231</div>
-                                        <div class="message">Chore(deps): Bump com.konghq:unirest-modules-gson in /versions (#13831)
-
-Bumps [com.konghq:unirest-modules-gson](https://github.com/Kong/unirest-java) from 4.5.0 to 4.5.1.
-- [Release notes](https://github.com/Kong/unirest-java/releases)
-- [Changelog](https://github.com/Kong/unirest-java/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/Kong/unirest-java/compare/v4.5.0...v4.5.1)
-
----
-updated-dependencies:
-- dependency-name: com.konghq:unirest-modules-gson
-  dependency-version: 4.5.1
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#062436d</div>
-                                        <div class="message">Chore(deps): Bump org.gradlex:extra-java-module-info in /build-logic (#13830)
-
-Bumps [org.gradlex:extra-java-module-info](https://github.com/gradlex-org/extra-java-module-info) from 1.13 to 1.13.1.
-- [Release notes](https://github.com/gradlex-org/extra-java-module-info/releases)
-- [Changelog](https://github.com/gradlex-org/extra-java-module-info/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/gradlex-org/extra-java-module-info/compare/v1.13...v1.13.1)
-
----
-updated-dependencies:
-- dependency-name: org.gradlex:extra-java-module-info
-  dependency-version: 1.13.1
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#868abf5</div>
-                                        <div class="message">Chore(deps): Bump org.apache.logging.log4j:log4j-to-slf4j in /versions (#13832)
-
-Bumps org.apache.logging.log4j:log4j-to-slf4j from 2.25.0 to 2.25.1.
-
----
-updated-dependencies:
-- dependency-name: org.apache.logging.log4j:log4j-to-slf4j
-  dependency-version: 2.25.1
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d54764c</div>
-                                        <div class="message">Chore(deps): Bump io.zonky.test.postgres:embedded-postgres-binaries-bom (#13834)
-
-Bumps [io.zonky.test.postgres:embedded-postgres-binaries-bom](https://github.com/zonkyio/embedded-postgres-binaries) from 17.5.0 to 17.6.0.
-- [Release notes](https://github.com/zonkyio/embedded-postgres-binaries/releases)
-- [Commits](https://github.com/zonkyio/embedded-postgres-binaries/compare/v17.5.0...v17.6.0)
-
----
-updated-dependencies:
-- dependency-name: io.zonky.test.postgres:embedded-postgres-binaries-bom
-  dependency-version: 17.6.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d67bd97</div>
-                                        <div class="message">Chore(deps): Bump jablib/src/main/resources/csl-locales (#13829)
-
-Bumps [jablib/src/main/resources/csl-locales](https://github.com/citation-style-language/locales) from `05cd069` to `d86660d`.
-- [Release notes](https://github.com/citation-style-language/locales/releases)
-- [Commits](https://github.com/citation-style-language/locales/compare/05cd069d40401fe45b81a7240748cb049c115b39...d86660dd3f7f1c4dd6b6818f261fe42ce2e6762f)
-
----
-updated-dependencies:
-- dependency-name: jablib/src/main/resources/csl-locales
-  dependency-version: d86660dd3f7f1c4dd6b6818f261fe42ce2e6762f
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#be8d2d2</div>
-                                        <div class="message">Chore(deps): Bump jablib/src/main/resources/csl-styles (#13827)
-
-Bumps [jablib/src/main/resources/csl-styles](https://github.com/citation-style-language/styles) from `416402b` to `f047064`.
-- [Release notes](https://github.com/citation-style-language/styles/releases)
-- [Commits](https://github.com/citation-style-language/styles/compare/416402b6d6773cd9d31c920f264760072a9539a5...f04706409cf75f26a19630749da5c80a13c61b88)
-
----
-updated-dependencies:
-- dependency-name: jablib/src/main/resources/csl-styles
-  dependency-version: f04706409cf75f26a19630749da5c80a13c61b88
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dc3ef8e</div>
-                                        <div class="message">Chore(deps): Bump jablib/src/main/abbrv.jabref.org (#13828)
-
-Bumps [jablib/src/main/abbrv.jabref.org](https://github.com/JabRef/abbrv.jabref.org) from `cebe6af` to `fc3ef9e`.
-- [Release notes](https://github.com/JabRef/abbrv.jabref.org/releases)
-- [Commits](https://github.com/JabRef/abbrv.jabref.org/compare/cebe6af6f4e3d677cc9fc351a28fc5e12e73f3e7...fc3ef9ee1ff8f6770971164963361f9d31549800)
-
----
-updated-dependencies:
-- dependency-name: jablib/src/main/abbrv.jabref.org
-  dependency-version: fc3ef9ee1ff8f6770971164963361f9d31549800
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce5cd12</div>
-                                        <div class="message">add: CAYW endpoint formats (#13785)
-
-* add new formatters and cayw resource tests
-
-* update changelog
-
-* correct method name and expected result in tests
-
-* add sources of new formatter
-
-* use bib entry constructor that takes citation key in test case
-
-* use builder of BibEntry with citation key
-
-* Update the format of typst to consider special character in key, and improve code readability of switch statement.
-
-* Remove unnecessary constructor code for consistency
-
-* Ue cite in typst format only when key contains slash
-
-* Remove meaningless comment
-
-* Update jabsrv/src/main/java/org/jabref/http/server/cayw/format/TypstFormatter.java
-
-* Update jabsrv/src/test/java/org/jabref/http/server/cayw/format/CAYWFormattersTest.java
-
-* Fix test
-
-* Update jabsrv/src/test/java/org/jabref/http/server/cayw/format/CAYWFormattersTest.java
-
----------
-
-Co-authored-by: jinchat-joseph-yim &lt;joseph.yim@jinchat.com&gt;
-Co-authored-by: Philip &lt;37398281+palukku@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#261ae7c</div>
-                                        <div class="message">New Crowdin updates (#13823)
-
-* New translations jabref_en.properties (French)
-
-* New translations jabref_en.properties (Italian)
-
-* New translations jabref_en.properties (Portuguese, Brazilian)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b7e860</div>
-                                        <div class="message">chore(deps): update dependency org.kohsuke:github-api to v2.0-rc.5 (#13822)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7823af5</div>
-                                        <div class="message">Add support for automatic ICORE conference ranking lookup [#13476] (#13699)
-
-* Port DuplicateCheck.similarity to StringSimilarity and add tests
-
-* Add ICORE2023 Rank Data To Resources
-
-Data sourced from ICORE website here: https://portal.core.edu.au/conf-ranks/ to enable ICORE rank lookups.
-
-As discussed here: https://github.com/JabRef/jabref/pull/13699#issuecomment-3201077051, only the latest data from ICORE is to be used. At this time, it is the ICORE2023 ranking data.
-
-Part of #13476
-
-* Add Core Classes For ICORE Rank Lookup
-
-- Append a header row to resources/icore/ICORE2023.csv
-- Add ConferenceEntry record to represent ICORE conference data
-- Add ConferenceRepository to load conference data and allow conference lookups using an acronym or a bookTitle with fuzzy match as a fallback
-- Add utility class to extract an acronym from a bookTitle
-- Add tests
-
-Part of #13476
-
-* Integrate ICORE Rank Lookup Feature Into The GUI
-
-- Add ICORERankingEditor and ICORERankingEditorViewModel classes (inspired by other editors and their view models) to the GUI package.
-- Add ICORERankingEditor.fxml for the editor's layout.
-- Add field creation logic to FieldEditors#getForField.
-- Update jablib/module-info to export the icore logic and model packages for use on the GUI side.
-- Add ICORE rank field to FieldFactory#getDefaultGeneralFields and update preferences migrations as per https://github.com/JabRef/jabref/pull/13512#issuecomment-3051409670.
-- Fix typos in ConferenceAcronymExtractorTest.
-- Fix order of modifiers in ConferenceEntry.
-- Update CHANGELOG.
-
-Part of #13476
-
-* Add Missing Localization Keys and Fix Broken Test
-
-- Out of the 4 missing keys in a failing test, two new keys were added to JabRef_en.properties while two were edited adapted to already present ones.
-- The performExportForSingleEntry test in OpenOfficeDocumentCreatorTest was failing because of the missing "Icoreranking" field. Further, since the ordering of JabRef-specific fields was changed in a previous commit to conform to alphabetical order, the hardcoded values in OldOpenOfficeCalcExportFormatContentSingleEntry.xml weren't matching with the exporter's output. This commit reorders the fields in the expected order and adds the "Icoreranking" field at its right place which fixes the broken test.
-
-Part of #13476
-
-* Use List.of() and fix grammar
-
-* Reorder fields
-
-* Fix unsupported operation exception
-
-* Rename field
-
-* Port DuplicateCheck.similarity to StringSimilarity and add tests
-
-* Add ICORE2023 Rank Data To Resources
-
-Data sourced from ICORE website here: https://portal.core.edu.au/conf-ranks/ to enable ICORE rank lookups.
-
-As discussed here: https://github.com/JabRef/jabref/pull/13699#issuecomment-3201077051, only the latest data from ICORE is to be used. At this time, it is the ICORE2023 ranking data.
-
-Part of #13476
-
-* Add Core Classes For ICORE Rank Lookup
-
-- Append a header row to resources/icore/ICORE2023.csv
-- Add ConferenceEntry record to represent ICORE conference data
-- Add ConferenceRepository to load conference data and allow conference lookups using an acronym or a bookTitle with fuzzy match as a fallback
-- Add utility class to extract an acronym from a bookTitle
-- Add tests
-
-Part of #13476
-
-* Fix Merge Conflict From Upstream Fetch
-
-Part of #13476
-
-* Add Missing Localization Keys and Fix Broken Test
-
-- Out of the 4 missing keys in a failing test, two new keys were added to JabRef_en.properties while two were edited adapted to already present ones.
-- The performExportForSingleEntry test in OpenOfficeDocumentCreatorTest was failing because of the missing "Icoreranking" field. Further, since the ordering of JabRef-specific fields was changed in a previous commit to conform to alphabetical order, the hardcoded values in OldOpenOfficeCalcExportFormatContentSingleEntry.xml weren't matching with the exporter's output. This commit reorders the fields in the expected order and adds the "Icoreranking" field at its right place which fixes the broken test.
-
-Part of #13476
-
-* Add Minor Fixes, Documentation, and Refactor
-
-- Update ICORERankingEditorViewModel to display a notification when a conference ranking isn't found instead of displaying the "not found" text in the field.
-- Refactored PreferencesMigrations.addICORERankingFieldToGeneralTab to better align with JabRefCliPreferences.setLanguageDependentDefaultValues.
-- Minor refactor and remove redundant comment and whitespace in ConferenceRepository.
-- Update tests to Parameterized tests in ConferenceRepositoryTest and ConferenceAcronymExtractorTest.
-- Removed unused variables in  ICORERankingEditor and ICORERankingEditorViewModel.
-- Update OldOpenOfficeCalcExportFormatContentSingleEntry.xml to align with the field ordering in StandardField.
-- Add documentation to PreferencesMigrations.addICORERankingFieldToGeneralTab and ConferenceAcronymExtractor.extract methods.
-
-Part of #13476
-
-* Revert "Hotfix: calling of publish.yml"
-
-This reverts commit 75d2b47818d879d6e2bdb3e294800c35e25c1b94 which I
-accidentally pulled on my feature branch.
-
-* Remove duplicate line in CHANGELOG
-
-Part of #13476
-
-* Improve Fuzzy Search Algorithm And Fix Undo Bug
-
-- Added utility functions to ConferenceUtils for acronym candidate
-  generation and string normalization
-- Updated fuzzy search algorithm in ConferenceRepository to include
-  Longest Common Substring similarity combined with Levenshtein
-  similarity
-- Fixed bug in ICORERankingEditor which was causing Undo to not work
-- Updated ICORERankingEditorViewModel to use the leaner
-  ConferenceRepository API
-- Added LCSSimilarity method to StringSimilarity to compute Longest
-  Common Substring similarity rating
-- Added Javadoc to various non-trivial methods
-- Add tests to cover the updated functionality
-
-Part of #13476
-
-* Discard changes to .github/workflows/tests-code.yml
-
-* Fix Broken Tests and Malformed JavaDoc
-
-Part of #13476
-
-* Update Test In ConferenceUtilsTest
-
-Part of #13476
-
-* Add Minor Fixes To ConferenceUtils
-
-Part of #13476
-
----------
-
-Co-authored-by: Oliver Kopp &lt;kopp.dev@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -977,14 +439,14 @@ Co-authored-by: Oliver Kopp &lt;kopp.dev@gmail.com&gt;</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Oct 2025, 19:14:41 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Oct 2025, 21:13:41 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
