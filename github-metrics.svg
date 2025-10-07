@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1904" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1615" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.string{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -285,7 +285,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 12 commits)</small>
+                    <small class="h-details">(computed from last 13 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -305,6 +305,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">lblain622/jabref</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ebabb82</div>
+                                        <div class="message">restoring old project work</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -477,335 +497,6 @@ This contains the 1. LOC, 2. Comment density, and 3. Cyclomatic Complexity per m
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 52 commits in
-                                        <span class="repo">lblain622/jabref</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f58cdf7</div>
-                                        <div class="message">Chore(deps): Bump jbangdev/jbang-action from 0.131.0 to 0.132.0 (#13990)
-
-Bumps [jbangdev/jbang-action](https://github.com/jbangdev/jbang-action) from 0.131.0 to 0.132.0.
-- [Release notes](https://github.com/jbangdev/jbang-action/releases)
-- [Commits](https://github.com/jbangdev/jbang-action/compare/v0.131.0...v0.132.0)
-
----
-updated-dependencies:
-- dependency-name: jbangdev/jbang-action
-  dependency-version: 0.132.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49d02b2</div>
-                                        <div class="message">Chore(deps): Bump org.junit.platform:junit-platform-launcher (#13996)
-
-Bumps [org.junit.platform:junit-platform-launcher](https://github.com/junit-team/junit-framework) from 1.13.1 to 1.13.4.
-- [Release notes](https://github.com/junit-team/junit-framework/releases)
-- [Commits](https://github.com/junit-team/junit-framework/commits)
-
----
-updated-dependencies:
-- dependency-name: org.junit.platform:junit-platform-launcher
-  dependency-version: 1.13.4
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b09bfde</div>
-                                        <div class="message">Chore(deps): Bump org.xmlunit:xmlunit-matchers in /versions (#13994)
-
-Bumps [org.xmlunit:xmlunit-matchers](https://github.com/xmlunit/xmlunit) from 2.10.3 to 2.10.4.
-- [Release notes](https://github.com/xmlunit/xmlunit/releases)
-- [Changelog](https://github.com/xmlunit/xmlunit/blob/main/RELEASE_NOTES.md)
-- [Commits](https://github.com/xmlunit/xmlunit/compare/v2.10.3...v2.10.4)
-
----
-updated-dependencies:
-- dependency-name: org.xmlunit:xmlunit-matchers
-  dependency-version: 2.10.4
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc4e045</div>
-                                        <div class="message">Chore(deps): Bump org.bouncycastle:bcprov-jdk18on in /versions (#13988)
-
-Bumps [org.bouncycastle:bcprov-jdk18on](https://github.com/bcgit/bc-java) from 1.81 to 1.82.
-- [Changelog](https://github.com/bcgit/bc-java/blob/main/docs/releasenotes.html)
-- [Commits](https://github.com/bcgit/bc-java/commits)
-
----
-updated-dependencies:
-- dependency-name: org.bouncycastle:bcprov-jdk18on
-  dependency-version: '1.82'
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd7c2a8</div>
-                                        <div class="message">Chore(deps): Bump jablib/src/main/resources/csl-locales (#13989)
-
-Bumps [jablib/src/main/resources/csl-locales](https://github.com/citation-style-language/locales) from `3b74988` to `c72e5c7`.
-- [Release notes](https://github.com/citation-style-language/locales/releases)
-- [Commits](https://github.com/citation-style-language/locales/compare/3b749889cf9a04e0afefa2a36bc05dd59a4572d1...c72e5c75c7c432c0268543dc76e5d4ac09b6d9d5)
-
----
-updated-dependencies:
-- dependency-name: jablib/src/main/resources/csl-locales
-  dependency-version: c72e5c75c7c432c0268543dc76e5d4ac09b6d9d5
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c809df0</div>
-                                        <div class="message">Chore(deps): Bump org.glassfish.jaxb:jaxb-runtime in /versions (#13987)
-
-Bumps org.glassfish.jaxb:jaxb-runtime from 4.0.4 to 4.0.6.
-
----
-updated-dependencies:
-- dependency-name: org.glassfish.jaxb:jaxb-runtime
-  dependency-version: 4.0.6
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d338c26</div>
-                                        <div class="message">Chore(deps): Bump jablib/src/main/resources/csl-styles (#13986)
-
-Bumps [jablib/src/main/resources/csl-styles](https://github.com/citation-style-language/styles) from `0c01a1f` to `02faf1a`.
-- [Release notes](https://github.com/citation-style-language/styles/releases)
-- [Commits](https://github.com/citation-style-language/styles/compare/0c01a1f6e29e7225399cd36bf185ba738e9247bb...02faf1a0cc0885892363f0a7e4b7188a5ec0c25b)
-
----
-updated-dependencies:
-- dependency-name: jablib/src/main/resources/csl-styles
-  dependency-version: 02faf1a0cc0885892363f0a7e4b7188a5ec0c25b
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#be8e57d</div>
-                                        <div class="message">Update gradle to 9.3.0-jabref-1 (#13719)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#89316e6</div>
-                                        <div class="message">Make Web Search 'Configure API key' searchable in preferences #13929 (#13982)
-
-* Make Web Search 'Configure API key' searchable in preferences
-
-* Fix Checkstyle empty line issues in PreferencesTab and WebSearchTab
-
-* Trigger CI after updating PR description
-
-* Fix failing LocalizationConsistencyTest: add missing 'Custom API key' entry
-
-* Add changelog entry for searchable API key preferences
-
-* Fix list formatting in changelog
-
-* Move changelog entry to Unreleased section
-
-* Trigger CI
-
-* Update changelog wording based on reviewer suggestion</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#32a9a68</div>
-                                        <div class="message">Add options to choose groups during import (#13977)
-
-* Add options to choose groups during import
-
-* Remove unused import</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52cf0c3</div>
-                                        <div class="message">Fix duplicate key error on insertion (#13981)
-
-* Fix duplicate key error on insertion
-
-* add test
-
-* fix empty lines
-
-* just throws
-
-* just throws</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f205095</div>
-                                        <div class="message">Keep label removal (#13980)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d87742b</div>
-                                        <div class="message">Fix refine check for getSuggestedFileName (#13974)
-
-* Fix refine check for getSuggestedFileName
-
-* Add expandBrackets test, update CHANGELOG
-
-* CHANGELOG update
-
-* Add notNull assert for expandBrackets
-
-* Add issue to CHANGELOG.md
-
-* remove redundant assertNull
-
-* Update CHANGELOG.md
-
----------
-
-Co-authored-by: Subhramit Basu &lt;subhramit.bb@live.in&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1fc437a</div>
-                                        <div class="message">Fix minor typo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98d4e94</div>
-                                        <div class="message">Fix string check (#13976)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f5edd6</div>
-                                        <div class="message">Add and implement JSpecify ADR (#13957)
-
-* Add ADR
-
-* Implement ADR
-
-* Undo unwanted changes
-
-* Remove newline
-
-* Remove newline
-
-* Remove newline
-
-* Update docs/decisions/0051-jspecify-nullable-annotations
-
-Co-authored-by: Subhramit Basu &lt;subhramit.bb@live.in&gt;
-
-* Update docs/decisions/0051-jspecify-nullable-annotations
-
-Co-authored-by: Subhramit Basu &lt;subhramit.bb@live.in&gt;
-
-* Update docs/decisions/0051-jspecify-nullable-annotations
-
-Co-authored-by: Subhramit Basu &lt;subhramit.bb@live.in&gt;
-
-* Update docs/decisions/0051-jspecify-nullable-annotations
-
-Co-authored-by: Subhramit Basu &lt;subhramit.bb@live.in&gt;
-
-* Update docs/decisions/0051-jspecify-nullable-annotations
-
-Co-authored-by: Subhramit Basu &lt;subhramit.bb@live.in&gt;
-
-* Update docs/decisions/0051-jspecify-nullable-annotations
-
-Co-authored-by: Subhramit Basu &lt;subhramit.bb@live.in&gt;
-
-* Update docs/decisions/0051-jspecify-nullable-annotations
-
-Co-authored-by: Subhramit Basu &lt;subhramit.bb@live.in&gt;
-
-* Update docs/decisions/0051-jspecify-nullable-annotations
-
-Co-authored-by: Subhramit Basu &lt;subhramit.bb@live.in&gt;
-
-* Fix refactoring artifacts
-
-* Checkstyle
-
-* Checkstyle
-
-* Fix and add tests
-
-* Fix unused imports
-
-* Remove null tests
-
-* Implement more annotations
-
-* Implement more annotations for consistency
-
-* Remove more null tests
-
-* Fix import and some static analysis null issues
-
-* Remove more null tests
-
----------
-
-Co-authored-by: Carl Christian Snethlage &lt;calixtus@users.noreply.github.com&gt;
-Co-authored-by: Subhramit Basu &lt;subhramit.bb@live.in&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c16c9e7</div>
-                                        <div class="message">Update dependency com.fasterxml.jackson.core:jackson-databind to v2.20.0 (#13975)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a20549</div>
-                                        <div class="message">Rework json adr for consistency check options (#13968)
-
-* Refactor JSON handling to use Jackson for consistency checks
-
-* Remove json-tree dependency and add Jackson for JSON handling
-
-* rename exception</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24c55e7</div>
-                                        <div class="message">Part 1/5: introduce SemanticMergeAnalyzer; prep fix for external-modification error (#13970)
-
-* refactor: split SemanticMergeAnalyzer into orchestrator + utils
-
-* restore: bring back org.jabref.logic.git.merge.MergePlan to make it compile</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28f4fbe</div>
-                                        <div class="message">New translations jabref_en.properties (Portuguese, Brazilian) (#13969)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -849,7 +540,7 @@ Co-authored-by: Subhramit Basu &lt;subhramit.bb@live.in&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 6 Oct 2025, 18:17:16
+                            On 6 Oct 2025, 13:39:10
                         </div>
                     </section>
                 </div>
@@ -859,14 +550,14 @@ Co-authored-by: Subhramit Basu &lt;subhramit.bb@live.in&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            sync repo to deliverable 4
+                            added nfr
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">81761386</span>
-                            <span class="code">courseProjectDocs/Unit-Testing/report.md</span>
+                            <span class="code">5c4478ba</span>
+                            <span class="code">courseProjectDocs/requirements-and-oracles.md</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -877,7 +568,7 @@ Co-authored-by: Subhramit Basu &lt;subhramit.bb@live.in&gt;</div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -64,7 +64,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">- No one tested if the user simply enters a white space, no need to compute power...<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">## Test Results<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">![image](test_results.png)<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">![image](testReport.png)<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">Coverage improvement analysis (compare with Baseline)<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -11,7 +11,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">## Non-Functional Requirements<br /></span><span class="token prefix unchanged">·</span><span class="token line">1. The system shall be free of charge, open-source, and cross-platform to ensure accessibility and ease of use for users across different operating systems and environments.<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">2. The system shall sha<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">2. The system shall shall be able to be run as a CLI application or built from the source to give users installion options. <br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">3. The system shall ...<br /></span><span class="token prefix unchanged">·</span><span class="token line">...<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -892,14 +583,14 @@ Co-authored-by: Subhramit Basu &lt;subhramit.bb@live.in&gt;</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #E7890C">Your fortune: Good Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Oct 2025, 05:18:32 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Oct 2025, 06:17:59 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
